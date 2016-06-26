@@ -18,3 +18,7 @@ fork过来直接能用的Project Pages
  > *  https://github.com/TheCodeRecipe/blog
 
  - [X] https://github.com/elotroalex/ed <br>一个抽屉式的主题，但首页还是html
+ - [X] https://github.com/ellekasai/shiori
+ A Bootstrap-based Jekyll Theme
+ - [X] http://chibicode.github.io/solo/
+ single-page websites
