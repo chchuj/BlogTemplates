@@ -22,3 +22,4 @@ fork过来直接能用的Project Pages
  A Bootstrap-based Jekyll Theme
  - [X] http://chibicode.github.io/solo/
  single-page websites
+ - [X] https://alexcarpenter.github.io/material-jekyll-theme/
