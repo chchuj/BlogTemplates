@@ -28,6 +28,9 @@ fork过来直接能用的Project Pages
  - [X] https://alexcarpenter.github.io/material-jekyll-theme/
  
  - https://github.com/mmistakes/hpstr-jekyll-theme
+ 
+ ## 未测试
+ - https://github.com/Huxpro/huxpro.github.io
  ## 坑爹的模板
  
 - [jekyll-starter-theme](http://henrythemes.github.io/jekyll-starter-theme/)
