@@ -14,6 +14,7 @@ fork过来直接能用的Project Pages
  - [X] https://github.com/TheCodeRecipe/blog
  - [X] https://github.com/nandomoreirame<br>这个作者有几个大同小异的模板，如：<br>
  
+ https://github.com/nandomoreirame/simplest
  > *  https://github.com/nandomoreirame/end2end
  > *  https://github.com/TheCodeRecipe/blog
 
