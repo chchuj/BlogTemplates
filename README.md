@@ -20,12 +20,17 @@ fork过来直接能用的Project Pages
  - [X] https://github.com/elotroalex/ed <br>一个抽屉式的主题，但首页还是html
  - [X] https://github.com/ellekasai/shiori
  A Bootstrap-based Jekyll Theme
- - [X] http://chibicode.github.io/solo/
- single-page websites
+ - https://github.com/chibicode/duo 
+ 
+ 一个首页有说明的模板
+
  - [X] https://alexcarpenter.github.io/material-jekyll-theme/
  
  ## 坑爹的模板
  
 - [jekyll-starter-theme](http://henrythemes.github.io/jekyll-starter-theme/)
 ```Your site is having problems building: Page build timed out. Please try again later.```
+ - [X] http://chibicode.github.io/solo/
+ 
+ ```Your site is having problems building: Page build timed out. Please try again later.```
  
